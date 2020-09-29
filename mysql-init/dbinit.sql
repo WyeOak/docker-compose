@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS crud;
+CREATE DATABASE crud;
+GRANT ALL PRIVILEGES ON crud.* TO 'kural'@'%' IDENTIFIED BY 'kural';
+GRANT ALL PRIVILEGES ON crud.* TO 'kural'@'localhost' IDENTIFIED BY 'kural';
