@@ -1,4 +1,9 @@
 # docker-compose
-docker-compose build
 
-docker-compose up
+
+Для запуска проекта:
+
+**docker-compose up**
+
+
+Запускается на порте 8088
